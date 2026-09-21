@@ -1,0 +1,12 @@
+Package: montyhall
+Title: Simulate the Monty Hall Problem
+Version: 0.0.0.9000
+Authors@R: 
+    person("Emily", "Echandia", , "emacadam@asu.edu", role = c("aut", "cre"))
+Description: Simulates the Monty Hall Problem to compare the outcomes of staying with an initial door selection and switching to the remaining unopened door.
+Depends: 
+    dplyr
+License: 
+Config/roxygen2/version: 8.1.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
