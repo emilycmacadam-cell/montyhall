@@ -192,7 +192,7 @@ play_game <- function( )
 #' @param n A numeric value indicating the number of games to simulate. The default is 100.
 #' @return The function returns a data frame containing the strategy and outcome for each simulated game.
 #' @examples
-#' play_n_games(n=10)
+#' play_n_games(n=5)
 #' @export
 play_n_games <- function( n=100 )
 {

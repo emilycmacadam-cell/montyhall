@@ -19,5 +19,5 @@ The function returns a data frame containing the strategy and outcome for each s
 The function repeatedly calls 'play_game()' for the specified number of games and combines the results into a single data frame. It also calculates and prints the proportion of wins and losses for the stay and switch strategies.
 }
 \examples{
-play_n_games(n=10)
+play_n_games(n=5)
 }
